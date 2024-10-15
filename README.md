@@ -23,7 +23,6 @@
 - [Help](#help)
 
 <img src="man/figures/dairynasem_logo.png" width="200" />
-![dairynasem package](man/figures/dairynasem_logo.png | width = 100)
 
 **Please note that this package was neither developed nor reviewed by anyone affiliated with the NASEM (2021) committee and is a beta version. Check all output against the NASEM (2021) program.**
 
