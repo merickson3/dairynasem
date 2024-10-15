@@ -1,4 +1,7 @@
 # Using the `dairynasem` package
+
+<img src="man/figures/dairynasem_logo.png" width="200" />
+
 - [Background](#background)
   * [Advantages of `dairynasem` package](#advantages-of-dairynasem-package)
   * [Potential features](#potential-features)
@@ -22,7 +25,6 @@
 - [Other possibilities](#other-possibilities)
 - [Help](#help)
 
-<img src="man/figures/dairynasem_logo.png" width="200" />
 
 **Please note that this package was neither developed nor reviewed by anyone affiliated with the NASEM (2021) committee and is a beta version. Check all output against the NASEM (2021) program.**
 
@@ -141,9 +143,9 @@ Users must provide diet_comp and scenario information using a similar structure 
 Because selecting feed names that match the NASEM (2021) library can be challenging, the Google Sheet below can be used as a diet editor. Please allow a moment after entering information in Column 1 for Column 2 to update. Diets created in this sheet can be pasted into diet_comp information. 
 https://docs.google.com/spreadsheets/d/14lhNtNi64uAkn4N1zoIq37QNJ37Ayyn235jaJiphb2g/copy?usp=sharing
 
-```{r, echo = F, fig.cap = "Figure 1.  Diet editing in Google Sheet"}
-knitr::include_graphics("NASEM_illustration_01.gif")
-```
+Figure 1.  Diet editing in Google Sheet
+
+![](\man\figures\NASEM_illustration_01.gif)
 
 ## Optional inputs
 
@@ -199,9 +201,10 @@ dn_export(dn_out_1, "txt")
 dn_export(dn_out_1, "xlsx")
 ```
 
-```{r, fig.height = 7, fig.width = 7, echo = F, fig.cap = "Figure 2. Example of exported NASEM results in working directory"}
-knitr::include_graphics("NASEM export txt example.png")
-```
+Figure 2. Example of exported NASEM results in working directory
+
+![](\man\figures\NASEM-export-txt-example.png)
+
 
 **Tables given in a NASEM (2021) report**
 
