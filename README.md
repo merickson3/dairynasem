@@ -8,7 +8,7 @@
   * [Windows](#windows)
   * [Mac](#mac)
 - [Install and load the `dairynasem` package](#install-and-load-the--dairynasem--package)
-- [Running NASEM (2021) simulations](#running-nasem--(2021)--simulations)
+- [Running NASEM (2021) simulations](#running-nasem--\(2021\)--simulations)
   * [Required inputs](#required-inputs)
     + [Diet Editor Google Sheet](#diet-editor-google-sheet)
   * [Optional inputs](#optional-inputs)
