@@ -77,11 +77,11 @@ In addition to these advantages, **eventually**, the `dairynasem` package may in
 
 If using this package, please remember to cite the NASEM (2021) consensus report and the `dairynasem` package. 
 
-NASEM (2021) consensus report:
+NASEM (2021) consensus report citation:
 
 National Academies of Sciences, Engineering, and Medicine (NASEM). 2021. Nutrient Requirements of Dairy Cattle: Eighth Revised Edition. Washington, DC: The National Academies Press.
 
-The dairynasem package:
+The dairynasem package citation:
 
 Erickson, M.G. (2023). 'dairynasem Package: Wrapper functions for NASEM (2021) Nutrient Requirements of Dairy Cattle.' https://github.com/merickson3/dairynasem
 
