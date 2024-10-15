@@ -3,7 +3,7 @@
 - [Background](#background)
   * [Advantages of `dairynasem` package](#advantages-of--dairynasem--package)
   * [Potential features](#potential-features)
-  * [Citing NASEM (2021) and this package](#citing-nasem--2021--and-this-package)
+  * [Citing NASEM (2021) and this package](#citing-nasem-2021-and-this-package)
 - [Update R to >= 4.3](#update-r-to----43)
   * [Windows](#windows)
   * [Mac](#mac)
