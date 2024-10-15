@@ -1,4 +1,29 @@
 # Using the `dairynasem` package
+- [Using the `dairynasem` package](#using-the--dairynasem--package)
+- [Background](#background)
+  * [Advantages of `dairynasem` package](#advantages-of--dairynasem--package)
+  * [Potential features](#potential-features)
+  * [Citing NASEM (2021) and this package](#citing-nasem--2021--and-this-package)
+- [Update R to >= 4.3](#update-r-to----43)
+  * [Windows](#windows)
+  * [Mac](#mac)
+- [Install and load the `dairynasem` package](#install-and-load-the--dairynasem--package)
+- [Running NASEM (2021) simulations](#running-nasem--2021--simulations)
+  * [Required inputs](#required-inputs)
+    + [Diet Editor Google Sheet](#diet-editor-google-sheet)
+  * [Optional inputs](#optional-inputs)
+  * [Using `dn_run`](#using--dn-run-)
+- [Working with results](#working-with-results)
+  * [Export](#export)
+  * [Extract](#extract)
+  * [Report](#report)
+- [Custom feeds and libraries](#custom-feeds-and-libraries)
+  * [Upload a library from spreadsheet](#upload-a-library-from-spreadsheet)
+  * [Use `create_custom_feed` and `create_custom_library`](#use--create-custom-feed--and--create-custom-library-)
+- [Other possibilities](#other-possibilities)
+- [Help](#help)
+
+
 
 **Please note that this package was neither developed nor reviewed by anyone affiliated with the NASEM (2021) committee and is a beta version. Check all output against the NASEM (2021) program.**
 
