@@ -140,6 +140,7 @@ head(scenario_ex_1)
 Users must provide diet_comp and scenario information using a similar structure to the examples shown above. At minimum, one diet and one scenario must be provided. It is straightforward to export the examples above as a csv, save renamed copies, modify them in a spreadsheet editor, and upload them to the Global Environment. 
 
 ### Diet Editor Google Sheet
+
 Because selecting feed names that match the NASEM (2021) library can be challenging, the Google Sheet below can be used as a diet editor. Please allow a moment after entering information in Column 1 for Column 2 to update. Diets created in this sheet can be pasted into diet_comp information. 
 https://docs.google.com/spreadsheets/d/14lhNtNi64uAkn4N1zoIq37QNJ37Ayyn235jaJiphb2g/copy?usp=sharing
 
