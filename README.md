@@ -146,7 +146,7 @@ https://docs.google.com/spreadsheets/d/14lhNtNi64uAkn4N1zoIq37QNJ37Ayyn235jaJiph
 
 Figure 1.  Diet editing in Google Sheet
 
-<img src="\man\figures\NASEM_illustration_01.gif" width="200" />
+<img src="\man\figures\NASEM_illustration_01.gif" />
 
 ## Optional inputs
 
@@ -204,7 +204,7 @@ dn_export(dn_out_1, "xlsx")
 
 Figure 2. Example of exported NASEM results in working directory
 
-![](\man\figures\NASEM-export-txt-example.png)
+<img src="\man\figures\NASEM-export-txt-example.png" />
 
 
 **Tables given in a NASEM (2021) report**
