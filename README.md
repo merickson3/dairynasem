@@ -146,7 +146,7 @@ https://docs.google.com/spreadsheets/d/14lhNtNi64uAkn4N1zoIq37QNJ37Ayyn235jaJiph
 
 Figure 1.  Diet editing in Google Sheet
 
-![](\man\figures\NASEM_illustration_01.gif)
+<img src="\man\figures\NASEM_illustration_01.gif" width="200" />
 
 ## Optional inputs
 
