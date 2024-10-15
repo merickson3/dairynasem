@@ -1,5 +1,4 @@
 # Using the `dairynasem` package
-- [Using the `dairynasem` package](#using-the-dairynasem-package)
 - [Background](#background)
   * [Advantages of `dairynasem` package](#advantages-of-dairynasem-package)
   * [Potential features](#potential-features)
