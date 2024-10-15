@@ -10,7 +10,7 @@ citEntry(
   pages    = "",
   url      = "",
   textVersion = paste( "
-Erickson, M.G. (2023). 'dairynasem Package: Wrapper functions for NASEM (2021) Nutrient Requirements of Dairy Cattle.' National Academies of Sciences, Engineering, and Medicine (NASEM). 2021. Nutrient Requirements of Dairy Cattle: Eighth Revised Edition. Washington, DC: The National Academies Press.
+Erickson, M.G. (2023). 'dairynasem Package: Wrapper functions for NASEM (2021) Nutrient Requirements of Dairy Cattle.' https://github.com/merickson3/dairynasem
 
 "
   )
