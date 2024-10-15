@@ -81,7 +81,7 @@ National Academies of Sciences, Engineering, and Medicine (NASEM). 2021. Nutrien
 
 The dairynasem package:
 
-Erickson, M.G. 2022. The dairynasem package.*****URL****
+Erickson, M.G. (2023). 'dairynasem Package: Wrapper functions for NASEM (2021) Nutrient Requirements of Dairy Cattle.' https://github.com/merickson3/dairynasem
 
 # Update R to >= 4.3
 
