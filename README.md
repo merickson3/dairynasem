@@ -84,14 +84,15 @@ library(updateR)
 updateR()
 ```
 
-# Install and load the package
+# Install and load the `dairynasem` package
 
 ```{r, message = FALSE, warning = FALSE, eval = F}
-# From local: 
+
 install.packages("devtools") # if not installed
 library(devtools)
-devtools::install_local("/Users/merickson3/Documents/dairynasem_0.1.0.tar.gz") # full file path
-library(dairynasem) 
+install_github("merickson3/dairynasem")
+library(dairynasem)
+
 
 ```
 
