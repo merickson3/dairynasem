@@ -1,0 +1,30 @@
+Package: dairynasem
+Type: Package
+Title: Wrapper functions to run the NASEM (2021) dairy nutritional model
+Version: 0.1.0
+Author: MaryGrace Erickson
+Maintainer: MaryGrace Erickson <eric3085@umn.edu>
+Description: This package is designed for dairy nutrition researchers to efficiently run the NASEM 2021 dairy nutritional model. This package simplifies the process of running simulations on multiple animal and diet inputs.
+License: CC BY NC SA
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    checkmate,
+    dplyr,
+    gt,
+    gtExtras,
+    janitor,
+    magrittr,
+    openxlsx,
+    purrr,
+    rlang,
+    rmarkdown,
+    tibble,
+    tidyr,
+    utils
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

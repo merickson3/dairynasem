@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(magrittr,"%>%")
+importFrom("utils", "data")
+importFrom("utils", "capture.output")
+importFrom("rlang",".data")
