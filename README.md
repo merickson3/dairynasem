@@ -23,7 +23,7 @@
 - [Help](#help)
 
 
-![dairynasem package](man/figures/dairynasem_logo.png){ width=400px }
+![dairynasem package](man/figures/dairynasem_logo.png)
 
 **Please note that this package was neither developed nor reviewed by anyone affiliated with the NASEM (2021) committee and is a beta version. Check all output against the NASEM (2021) program.**
 
