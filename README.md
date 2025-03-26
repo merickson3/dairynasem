@@ -25,10 +25,13 @@
 - [Other possibilities](#other-possibilities)
 - [Help](#help)
 
+# Contact
 
-**Please note that this package was neither developed nor reviewed by anyone affiliated with the NASEM (2021) committee and is a beta version. Check all output against the NASEM (2021) program.**
+MaryGrace Erickson eric3085@umn.edu 
 
 # Background
+
+**Please note that this package was neither developed nor reviewed by anyone affiliated with the NASEM (2021) committee and is a beta version. Check all output against the NASEM (2021) program.**
 
 In 2021, a committee of experts associated with the National Academies of Sciences, Engineering, and Medicine (NASEM) published a consensus report entitled "Nutrient Requirements of Dairy Cattle." The consensus report is available to purchase online (https://nap.nationalacademies.org/catalog/25806/nutrient-requirements-of-dairy-cattle-eighth-revised-edition). Additionally, the committee provided free software to run the nutritional model associated with the consensus report on Windows. The publisher recommends the consensus report and software be used by nutritionists and other professionals to evaluate dairy cattle diets. 
 
